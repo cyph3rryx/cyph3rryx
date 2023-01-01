@@ -1,4 +1,4 @@
-![logo](https://github.com/cyph3rryx/cyph3rryx/blob/main/Banner_Cyph3rRyx.gif)
+![logo](https://github.com/cyph3rryx/cyph3rryx/blob/main/Banner_2.0.gif)
 <h1 align="center">Hi 👋, I'm Rushi Padhiyar</h1>
 <h3 align="center">Geeking out on cybersecurity 😉</h3>
 <img align="center" alt="Coding" width="400" src="Logo.gif">
