@@ -23,7 +23,7 @@
 <a href="https://twitter.com/padhiyarrushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padhiyarrushi" height="30" width="40" /></a>
 <a href="https://instagram.com/rushi_padhiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushi_padhiyar" height="30" width="40" /></a>
 <a href="https://medium.com/@rushi.padhiyar098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rushi.padhiyar098" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/weeb ryx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weeb ryx" height="30" width="40" /></a>
+<a href="https://youtube.com/@weebryx5429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weeb ryx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
