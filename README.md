@@ -1,7 +1,7 @@
 ![logo](https://github.com/cyph3rryx/cyph3rryx/blob/main/Banner_Cyph3rRyx.gif)
 <h1 align="center">Hi 👋, I'm Rushi Padhiyar</h1>
 <h3 align="center">Geeking out on cybersecurity 😉</h3>
-<img align="right" alt="Coding" width="400" src="Logo.gif">
+<img align="center" alt="Coding" width="400" src="Logo.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyph3rryx&label=Profile%20views&color=0e75b6&style=flat" alt="cyph3rryx" /> </p>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **cyph3rdryx@gmail.com**
 
-- ⚡ Fun fact **I am a serious movie enthusiast who actively studies films in my free time.**
+- ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
