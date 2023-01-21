@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyph3rryx&label=Profile%20views&color=0e75b6&style=flat" alt="cyph3rryx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyph3rryx&theme=onedark" alt="cyph3rryx" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/padhiyarrushi" target="blank"><img src="https://img.shields.io/twitter/follow/padhiyarrushi?logo=twitter&style=for-the-badge" alt="padhiyarrushi" /></a> </p>
 
 - 🌱 I’m currently learning **Penetration Testing, Web Application Hacking**
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **cyph3rdryx@gmail.com**
 
-- ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films in my free time.**
+- ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films in free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
