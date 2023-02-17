@@ -35,4 +35,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyph3rryx&" alt="cyph3rryx" /></p>
 
 
-## DM me for any queries regarding Cybersecurity 
