@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **gamerboi5501x@gmail.com**
 
-- ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films in free time.**
+- ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films.**
 
-- 💡 Interested Fields: Malware Analysis, Network Security, Cryptography 
+- 💡 Interested Fields: Malware Analysis, Network Security, Cryptography
 <h3 align="left">✨Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/padhiyarrushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padhiyarrushi" height="30" width="40" /></a>
