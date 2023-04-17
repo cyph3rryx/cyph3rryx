@@ -1,7 +1,7 @@
 ![logo](https://github.com/cyph3rryx/cyph3rryx/blob/main/Banner_3.0.gif)
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=39D3F7&center=true&vCenter=true&multiline=true&width=535&height=50&lines=Welcome+to+my+Cyber+Domain!+%E2%95%B0(*%C2%B0%E2%96%BD%C2%B0*)%E2%95%AF" alt="Typing SVG" /></a></h1>
 
-<img align="center" alt="Coding" width="400" src="Logo.gif">
+<img align="right" alt="Coding" width="400" src="Logo.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyph3rryx&label=Profile%20views&color=0e75b6&style=flat" alt="cyph3rryx" /> </p>
 <p align="left"> <a href="https://twitter.com/padhiyarrushi" target="blank"><img src="https://img.shields.io/twitter/follow/padhiyarrushi?logo=twitter&style=for-the-badge" alt="padhiyarrushi" /></a> </p>
 
