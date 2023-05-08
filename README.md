@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Cybersecurity, Bug Bounties, CTF's, Linux, Networking**
 
-- 📫 How to reach me **gamerboi5501x@gmail.com**
+
 
 - ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films.**
 
