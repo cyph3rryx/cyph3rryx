@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films.**
 
-- 💡 Interested Fields: Malware Analysis, Network Security, Cryptography
+- 💡 Interested Fields: Malware Analysis, Network Security, Cryptography.
 
 <h3 align="left">✨Connect with me: </h3>
 <p align="left">
