@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyph3rryx&show_icons=true&locale=en" alt="cyph3rryx"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyph3rryx&" alt="cyph3rryx" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cyph3rryx&" alt="cyph3rryx" /></p>
 
 [![cyph3rryx's GitHub | Stats](https://stats.quine.sh/cyph3rryx/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=cyph3rryx)
 
