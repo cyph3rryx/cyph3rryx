@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/padhiyarrushi" target="blank"><img src="https://img.shields.io/twitter/follow/padhiyarrushi?logo=twitter&style=for-the-badge" alt="padhiyarrushi" /></a></p>
 
 - 🌱 I’m currently learning **Penetration Testing, Web Application Hacking**
-- 
+
 - 💬 Ask me about **Cybersecurity, Bug Bounties, CTF's, Linux, Networking**
 
 - ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films.**
