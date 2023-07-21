@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Penetration Testing, Web Application Hacking**
 
-- 💬 Ask me about **Cybersecurity, Bug Bounties, CTF's, Linux, Networking**
+- 💬 Ask me about **Cybersecurity, Bug Bounties, CTFs, Linux, Networking**
 
 - ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films.**
 
