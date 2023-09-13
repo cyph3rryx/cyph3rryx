@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning **Penetration Testing, Web Application Hacking**
 
 - 💬 Ask me about **Cybersecurity, Cryptography, CTFs, Linux, Networking**
-- 
+ 
 - 💡 Interested Fields: **Malware Analysis, Network Security, Cryptography**
-- 
+ 
 - ⚡ Fun fact: **I am a serious movie enthusiast who actively studies films.**
 
 <h3 align="left">✨Connect with me: </h3>
