@@ -30,7 +30,7 @@
 <img src="https://myreadme.vercel.app/api/embed/cyph3rryx?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Hungry GitHub Snake 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cyph3rryx/cyph3rryx/output/github-contribution-grid-snake-dark.svg" />
   
