@@ -28,5 +28,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyph3rryx&theme=tokyonight" alt="mystreak"/>
 <img src="https://myreadme.vercel.app/api/embed/cyph3rryx?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+![Snake animation](https://github.com/{{cyph3rryx}}/{{cyph3rryx}}/blob/output/github-contribution-grid-snake.svg)
 
