@@ -35,7 +35,13 @@
   
   <br/><br/><br/>
 </div>
+<div align="center">
+  <h2>✨ Currently Vibing on... 🥂😉</h2>
+  <br>
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sz7zx5apji7sb1hz7hitrx3ax&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
+  <br/><br/><br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sz7zx5apji7sb1hz7hitrx3ax&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <hr/>
 
