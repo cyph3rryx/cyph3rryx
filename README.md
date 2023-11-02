@@ -44,4 +44,12 @@
   <br/><br/><br/>
 
 <hr/>
-
+</div>
+<div align="center">
+  <h2>👽 HacketoberFest 2023 Badges 👾 </h2>
+  <br>
+ 
+  [![An image of @ryx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryx)](https://holopin.io/@ryx)
+ 
+  <br/><br/><br/>
+</div>
