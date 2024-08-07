@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyph3rryx&label=Profile%20views&color=0e75b6&style=flat" alt="cyph3rryx" /> </p>
 <p align="left"> <a href="https://twitter.com/padhiyarrushi" target="blank"><img src="https://img.shields.io/twitter/follow/padhiyarrushi?logo=twitter&style=for-the-badge" alt="padhiyarrushi" /></a></p>
 
+- ✨ **Security Engineer**
+
 - 🌱 I’m currently learning **Penetration Testing, Web Application Hacking, Reverse Engineering**
 
 - 💬 Ask me about **Cybersecurity, Cryptography, CTFs, Linux, Networking**
